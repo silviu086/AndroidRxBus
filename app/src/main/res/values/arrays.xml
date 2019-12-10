@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="regions">
+        <item>Bucuresti</item>
+        <item>Ilfov</item>
+        <item>Brasov</item>
+        <item>Constanta</item>
+        <item>Teleorman</item>
+    </string-array>
+</resources>
